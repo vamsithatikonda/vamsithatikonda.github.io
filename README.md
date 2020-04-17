@@ -1,1 +1,1 @@
-https://vamsithatikonda.github.io/education
+https://vamsithatikonda.github.io/
