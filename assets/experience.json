@@ -4,60 +4,41 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/CGI_logo.svg",
         "url": "https://https://www.cgi.com/en/",
         "rolesTitle": "Software Engineer",
-        "description": "My Account is a southwest.com user personal portal that helps customers to track past flights, upcoming trips, Recent Activity on the account and securely manage respective profile. End Goal of this Project is to transform Legacy application to adapt southwest vision technology stack. ",
+        "description": "CGI is a professional services provider company helping customers to support or build applications. ",
         "startDate": "2018-09",
         "endDate": "PRESENT",
         "currentJob": true,
-        "location": "Dallas, TX"
+        "location": "Herndon, VA"
     },
     {
-        "companyName": "Transplace",
-        "logo": "https://myresumeupdated.s3.amazonaws.com/transplace-logo.png",
-        "url": "https://www.transplace.com/",
-        "rolesTitle": "UI developer",
+        "companyName": "Deloitte",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Deloitte_Logo.png",
+        "url": "https://www.deloitte.com/",
+        "rolesTitle": "Full Stack developer",
         "description": "Working on conversion of legacy TMS (Transport Management Shipment) application, build on using Java, Swing, JSP, JSF into web based application utilizing Angular Framework. ",
         "startDate": "2018-01",
         "endDate": "2018-09",
-        "location": "Frisco, TX"
+        "location": "CampHill, PA"
     },
+    
     {
-        "companyName": "Bottle Rocket",
-        "logo": "https://myresumeupdated.s3.amazonaws.com/bootleRocket.png",
-        "url": "https://www.bottlerocket.com/",
-        "rolesTitle": "Front End Engineer",
+        "companyName": "Indus Valley",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Indus_Civilisation_Carnelian_bead_with_white_design%2C_ca._2900%E2%80%932350_BC_Found_in_Nippur%2C_Mesopotamian_%28detail%29.jpg",
+        "url": "http://www.indusvalley.com/",
+        "rolesTitle": "Senior Java Developer",
         "description": "Worked on developing MVP product for Canadian Onvio Customers.  Heavily involved in developing Angular 4 Application and AEM components for new Marketing Web pages which are going to get release by December.",
         "startDate": "2017-08",
         "endDate": "2018-01",
-        "location": "Addision TX"
+        "location": "Dayton, OH"
     },
     {
-        "companyName": "AT&T",
-        "logo": "https://myresumeupdated.s3.amazonaws.com/att.png",
-        "url": "https://www.att.com/",
+        "companyName": "IEG - Institute for Electronic Governance",
+        "logo": "http://iegportalgov.appspot.com/Page/ieg.gif",
+        "url": "http://iegportalgov.appspot.com/index.jsp",
         "rolesTitle": "Front End Developer",
         "description": "Sales Express is an internal Project of AT&T to create a platform between the merchants and the AT&T.  Sales Express displays all the products and services offered by the AT&T, the project has two sections billings and support.  Role is to create UI pages consists of the tables and the forms to show all case details and comments of a case numbers generated based on the login credentials entered",
         "startDate": "2016-09",
         "endDate": "2017-08",
-        "location": "Dallas, Texas"
-    },
-    {
-        "companyName": "VISA",
-        "logo": "https://myresumeupdated.s3.amazonaws.com/visa.png",
-        "url": "https://www.visa.com/",
-        "rolesTitle": "Front End Developer",
-        "description": "Payment related System is a web application used for maintenance of the VISA card related transactions details between VISA and Banks.  This application enables different users such as Account Manager, Merchants, Users to view details of the transactions based on the login credentials.  The functionalities and views of user’s changes based on the hierarchy level.",
-        "startDate": "2015-02",
-        "endDate": "2016-09",
-        "location": "Foster City, CA"
-    },
-    {
-        "companyName": "SPAN INFO TECH",
-        "logo": "https://myresumeupdated.s3.amazonaws.com/span-infotech-india.png",
-        "url": "https://www.google.com/",
-        "rolesTitle": "UI Developer",
-        "description": "Facility management system is a web and mobile application used for maintenance and facility management.  This application enables the technicians and managers to dispatch work orders, handle all the in-house services, monitor the employees’ activities and the time that they spend to complete the work orders.  The administrator can create various user accounts and can designate roles and privileges.",
-        "startDate": "2013-05",
-        "endDate": "2014-05",
-        "location": "Bangalore, India"
+        "location": "Hyderabad, India"
     }
 ]

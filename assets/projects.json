@@ -1,0 +1,16 @@
+[
+    {
+        "name": "CGI Account",
+        "description": "CGI has diverse clients; providing support and services to the client applications",
+        "url": "../../assets/cgi.png",
+        "alt": "southwest",
+        "projectLink": "http://cgi.com/"
+    },
+    {
+        "name": "DMV California",
+        "description": "Appointment System - Making dmv appoints online by skipping the line",
+        "url": "../../assets/dmv.png",
+        "alt": "DMV California",
+        "projectLink": "https://www.dmv.ca.gov/wasapp/foa/viewCancel.do"
+    }
+]
