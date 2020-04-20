@@ -34,10 +34,8 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AppComponent", function() { return AppComponent; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
-/* harmony import */ var _angular_material_sidenav__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/material/sidenav */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/sidenav.js");
-/* harmony import */ var _angular_material_tabs__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/material/tabs */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/tabs.js");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
-
+/* harmony import */ var _angular_material_tabs__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/material/tabs */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/tabs.js");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
 
 
@@ -48,104 +46,103 @@ class AppComponent {
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(); };
-AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["pm-root"]], decls: 102, vars: 4, consts: [[1, "example-container"], ["mode", "side", "opened", "", 1, "example-container-left"], [1, "container"], [1, "row", "block"], ["alt", "Vamsi Thatikonda", "src", "assets/vamsi.ico"], [1, "titleCssName"], [1, "titleCss"], [1, "display:", "block;"], ["href", "https://my.indeed.com/p/vamsit-9rwwg69/pdf", "download", ""], ["width", "1em", "height", "1em", "viewBox", "0 0 16 16", "fill", "currentColor", "xmlns", "http://www.w3.org/2000/svg", 1, "bi", "bi-cloud-download"], ["d", "M4.887 5.2l-.964-.165A2.5 2.5 0 103.5 10H6v1H3.5a3.5 3.5 0 11.59-6.95 5.002 5.002 0 119.804 1.98A2.501 2.501 0 0113.5 11H10v-1h3.5a1.5 1.5 0 00.237-2.981L12.7 6.854l.216-1.028a4 4 0 10-7.843-1.587l-.185.96z"], ["fill-rule", "evenodd", "d", "M5 12.5a.5.5 0 01.707 0L8 14.793l2.293-2.293a.5.5 0 11.707.707l-2.646 2.646a.5.5 0 01-.708 0L5 13.207a.5.5 0 010-.707z", "clip-rule", "evenodd"], ["fill-rule", "evenodd", "d", "M8 6a.5.5 0 01.5.5v8a.5.5 0 01-1 0v-8A.5.5 0 018 6z", "clip-rule", "evenodd"], ["width", "1em", "height", "1em", "viewBox", "0 0 16 16", "fill", "currentColor", "xmlns", "http://www.w3.org/2000/svg", 1, "bi", "bi-briefcase-fill"], ["fill-rule", "evenodd", "d", "M0 12.5A1.5 1.5 0 001.5 14h13a1.5 1.5 0 001.5-1.5V6.85L8.129 8.947a.5.5 0 01-.258 0L0 6.85v5.65z", "clip-rule", "evenodd"], ["fill-rule", "evenodd", "d", "M0 4.5A1.5 1.5 0 011.5 3h13A1.5 1.5 0 0116 4.5v1.384l-7.614 2.03a1.5 1.5 0 01-.772 0L0 5.884V4.5zm5-2A1.5 1.5 0 016.5 1h3A1.5 1.5 0 0111 2.5V3h-1v-.5a.5.5 0 00-.5-.5h-3a.5.5 0 00-.5.5V3H5v-.5z", "clip-rule", "evenodd"], ["id", "Capa_1", "enable-background", "new 0 0 511.996 511.996", "viewBox", "0 0 511.996 511.996", "xmlns", "http://www.w3.org/2000/svg", "width", "1em", "height", "1em"], ["d", "m230.9 253.371c13.369 8.913 36.827 8.914 50.199-.001.002-.001.005-.003.007-.004l227.865-151.911c-7.474-21.616-28.018-37.188-52.142-37.188h-401.663c-24.125 0-44.668 15.572-52.143 37.188l227.87 151.912c.003.002.005.002.007.004z"], ["d", "m297.746 278.328c-.003.002-.005.004-.007.005-11.702 7.801-26.724 11.702-41.741 11.702-15.02 0-30.036-3.9-41.739-11.703-.002-.001-.003-.002-.005-.003l-214.254-142.835v257.072c0 30.417 24.747 55.163 55.166 55.163h401.666c30.418 0 55.164-24.746 55.164-55.163v-257.072z"], ["width", "1em", "height", "1em", "viewBox", "0 -1 448 447", "xmlns", "http://www.w3.org/2000/svg"], ["d", "m184 302.1875h16v32h-16zm0 0"], ["d", "m152 158.1875h16v32h-16zm0 0"], ["d", "m152 206.1875h16v32h-16zm0 0"], ["d", "m280 158.1875h16v32h-16zm0 0"], ["d", "m184 206.1875h16v32h-16zm0 0"], ["d", "m184 158.1875h16v32h-16zm0 0"], ["d", "m152 350.1875h16v32h-16zm0 0"], ["d", "m218.792969 16.117188c2.992187-2.5625 7.40625-2.5625 10.398437 0l105.160156 90.117187 6.953126-10.398437-117.304688-95.335938-117.304688 95.289062 6.953126 10.398438zm0 0"], ["d", "m368 361.5v84.6875h16v-84.6875l-8-8zm0 0"], ["d", "m400 361.5v84.6875h16v-84.6875l-8-8zm0 0"], ["d", "m152 302.1875h16v32h-16zm0 0"], ["d", "m280 206.1875h16v32h-16zm0 0"], ["d", "m184 350.1875h16v32h-16zm0 0"], ["d", "m248 302.1875h16v32h-16zm0 0"], ["d", "m248 158.1875h16v32h-16zm0 0"], ["d", "m120 121.867188v292.320312h208v-292.320312l-104-89.144532zm96 268.320312c0 4.417969-3.582031 8-8 8h-64c-4.417969 0-8-3.582031-8-8v-96c0-4.417969 3.582031-8 8-8h64c4.417969 0 8 3.582031 8 8zm0-144c0 4.417969-3.582031 8-8 8h-64c-4.417969 0-8-3.582031-8-8v-96c0-4.417969 3.582031-8 8-8h64c4.417969 0 8 3.582031 8 8zm16-96c0-4.417969 3.582031-8 8-8h64c4.417969 0 8 3.582031 8 8v96c0 4.417969-3.582031 8-8 8h-64c-4.417969 0-8-3.582031-8-8zm0 144c0-4.417969 3.582031-8 8-8h64c4.417969 0 8 3.582031 8 8v96c0 4.417969-3.582031 8-8 8h-64c-4.417969 0-8-3.582031-8-8zm0 0"], ["d", "m248 350.1875h16v32h-16zm0 0"], ["d", "m0 361.5v84.6875h16v-84.6875l-8-8zm0 0"], ["d", "m440 353.5-8 8v84.6875h16v-84.6875zm0 0"], ["d", "m64 361.5v84.6875h16v-84.6875l-8-8zm0 0"], ["d", "m32 361.5v84.6875h16v-84.6875l-8-8zm0 0"], ["d", "m96 430.1875h256v16h-256zm0 0"], ["d", "m280 302.1875h16v32h-16zm0 0"], ["d", "m248 206.1875h16v32h-16zm0 0"], ["d", "m280 350.1875h16v32h-16zm0 0"], [1, "border:", "1px", "solid", "red;"], ["href", "https://github.com/vamsithatikonda"], ["version", "1.1", "id", "Capa_1", "xmlns", "http://www.w3.org/2000/svg", 0, "xmlns", "xlink", "http://www.w3.org/1999/xlink", "x", "0px", "y", "0px", "width", "50px", "height", "50px", "viewBox", "0 0 438.549 438.549", 0, "xml", "space", "preserve", 2, "enable-background", "new 0 0 438.549 438.549"], ["d", "M409.132,114.573c-19.608-33.596-46.205-60.194-79.798-79.8C295.736,15.166,259.057,5.365,219.271,5.365\n       c-39.781,0-76.472,9.804-110.063,29.408c-33.596,19.605-60.192,46.204-79.8,79.8C9.803,148.168,0,184.854,0,224.63\n       c0,47.78,13.94,90.745,41.827,128.906c27.884,38.164,63.906,64.572,108.063,79.227c5.14,0.954,8.945,0.283,11.419-1.996\n       c2.475-2.282,3.711-5.14,3.711-8.562c0-0.571-0.049-5.708-0.144-15.417c-0.098-9.709-0.144-18.179-0.144-25.406l-6.567,1.136\n       c-4.187,0.767-9.469,1.092-15.846,1c-6.374-0.089-12.991-0.757-19.842-1.999c-6.854-1.231-13.229-4.086-19.13-8.559\n       c-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903-4.374-4.899-9.233-8.992-14.559\n       c-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332-0.951-2.568-2.098-3.711-3.429c-1.142-1.331-1.997-2.663-2.568-3.997\n       c-0.572-1.335-0.098-2.43,1.427-3.289c1.525-0.859,4.281-1.276,8.28-1.276l5.708,0.853c3.807,0.763,8.516,3.042,14.133,6.851\n       c5.614,3.806,10.229,8.754,13.846,14.842c4.38,7.806,9.657,13.754,15.846,17.847c6.184,4.093,12.419,6.136,18.699,6.136\n       c6.28,0,11.704-0.476,16.274-1.423c4.565-0.952,8.848-2.383,12.847-4.285c1.713-12.758,6.377-22.559,13.988-29.41\n       c-10.848-1.14-20.601-2.857-29.264-5.14c-8.658-2.286-17.605-5.996-26.835-11.14c-9.235-5.137-16.896-11.516-22.985-19.126\n       c-6.09-7.614-11.088-17.61-14.987-29.979c-3.901-12.374-5.852-26.648-5.852-42.826c0-23.035,7.52-42.637,22.557-58.817\n       c-7.044-17.318-6.379-36.732,1.997-58.24c5.52-1.715,13.706-0.428,24.554,3.853c10.85,4.283,18.794,7.952,23.84,10.994\n       c5.046,3.041,9.089,5.618,12.135,7.708c17.705-4.947,35.976-7.421,54.818-7.421s37.117,2.474,54.823,7.421l10.849-6.849\n       c7.419-4.57,16.18-8.758,26.262-12.565c10.088-3.805,17.802-4.853,23.134-3.138c8.562,21.509,9.325,40.922,2.279,58.24\n       c15.036,16.18,22.559,35.787,22.559,58.817c0,16.178-1.958,30.497-5.853,42.966c-3.9,12.471-8.941,22.457-15.125,29.979\n       c-6.191,7.521-13.901,13.85-23.131,18.986c-9.232,5.14-18.182,8.85-26.84,11.136c-8.662,2.286-18.415,4.004-29.263,5.146\n       c9.894,8.562,14.842,22.077,14.842,40.539v60.237c0,3.422,1.19,6.279,3.572,8.562c2.379,2.279,6.136,2.95,11.276,1.995\n       c44.163-14.653,80.185-41.062,108.068-79.226c27.88-38.161,41.825-81.126,41.825-128.906\n       C438.536,184.851,428.728,148.168,409.132,114.573z"], ["mat-tab-nav-bar", ""], ["mat-tab-link", "", "routerLink", "/experience", "routerLinkActive", "", 2, "width", "40%", 3, "active"], ["homeTab", "routerLinkActive"], ["mat-tab-link", "", "routerLink", "/skills", "routerLinkActive", "", 2, "width", "40%", 3, "active"], ["skillsTab", "routerLinkActive"], ["mat-tab-link", "", "routerLink", "/portfolio", "routerLinkActive", "", 2, "width", "40%", 3, "active"], ["portTab", "routerLinkActive"], ["mat-tab-link", "", "routerLink", "/education", "routerLinkActive", "", 2, "width", "40%", 3, "active"], ["eduTab", "routerLinkActive"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "mat-sidenav-container", 0);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "mat-sidenav", 1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](4, "img", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "h1", 5);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "VAMSI THATIKONDA");
+AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["pm-root"]], decls: 114, vars: 4, consts: [[1, "d-flex", "bodyHeight"], [1, "callOuts", "d-flex", "flex-column", "align-items-center", "w-30", "p-4", "boxColor", "bodyHeight"], ["alt", "Vamsi Thatikonda", "src", "assets/vamsi.ico", 1, "img-fluid", "circleImage", "rounded-circle"], [1, "p-2"], [2, "text-align", "justify"], ["href", "https://my.indeed.com/p/vamsit-9rwwg69/pdf", "download", ""], ["width", "1em", "height", "1em", "viewBox", "0 0 16 16", "fill", "", "xmlns", "http://www.w3.org/2000/svg"], ["d", "M4.887 5.2l-.964-.165A2.5 2.5 0 103.5 10H6v1H3.5a3.5 3.5 0 11.59-6.95 5.002 5.002 0 119.804 1.98A2.501 2.501 0 0113.5 11H10v-1h3.5a1.5 1.5 0 00.237-2.981L12.7 6.854l.216-1.028a4 4 0 10-7.843-1.587l-.185.96z"], ["d", "M5 12.5a.5.5 0 01.707 0L8 14.793l2.293-2.293a.5.5 0 11.707.707l-2.646 2.646a.5.5 0 01-.708 0L5 13.207a.5.5 0 010-.707z", "clip-rule", "evenodd"], ["d", "M8 6a.5.5 0 01.5.5v8a.5.5 0 01-1 0v-8A.5.5 0 018 6z"], [1, "display:", "block;"], ["width", "1em", "height", "1em", "viewBox", "0 0 16 16", "fill", "currentColor", "xmlns", "http://www.w3.org/2000/svg", 1, "bi", "bi-briefcase-fill"], ["fill-rule", "evenodd", "d", "M0 12.5A1.5 1.5 0 001.5 14h13a1.5 1.5 0 001.5-1.5V6.85L8.129 8.947a.5.5 0 01-.258 0L0 6.85v5.65z", "clip-rule", "evenodd"], ["fill-rule", "evenodd", "d", "M0 4.5A1.5 1.5 0 011.5 3h13A1.5 1.5 0 0116 4.5v1.384l-7.614 2.03a1.5 1.5 0 01-.772 0L0 5.884V4.5zm5-2A1.5 1.5 0 016.5 1h3A1.5 1.5 0 0111 2.5V3h-1v-.5a.5.5 0 00-.5-.5h-3a.5.5 0 00-.5.5V3H5v-.5z", "clip-rule", "evenodd"], ["id", "Capa_1", "enable-background", "new 0 0 511.996 511.996", "viewBox", "0 0 511.996 511.996", "xmlns", "http://www.w3.org/2000/svg", "width", "1em", "height", "1em"], ["d", "m230.9 253.371c13.369 8.913 36.827 8.914 50.199-.001.002-.001.005-.003.007-.004l227.865-151.911c-7.474-21.616-28.018-37.188-52.142-37.188h-401.663c-24.125 0-44.668 15.572-52.143 37.188l227.87 151.912c.003.002.005.002.007.004z"], ["d", "m297.746 278.328c-.003.002-.005.004-.007.005-11.702 7.801-26.724 11.702-41.741 11.702-15.02 0-30.036-3.9-41.739-11.703-.002-.001-.003-.002-.005-.003l-214.254-142.835v257.072c0 30.417 24.747 55.163 55.166 55.163h401.666c30.418 0 55.164-24.746 55.164-55.163v-257.072z"], ["width", "1em", "height", "1em", "viewBox", "0 -1 448 447", "xmlns", "http://www.w3.org/2000/svg"], ["d", "m184 302.1875h16v32h-16zm0 0"], ["d", "m152 158.1875h16v32h-16zm0 0"], ["d", "m152 206.1875h16v32h-16zm0 0"], ["d", "m280 158.1875h16v32h-16zm0 0"], ["d", "m184 206.1875h16v32h-16zm0 0"], ["d", "m184 158.1875h16v32h-16zm0 0"], ["d", "m152 350.1875h16v32h-16zm0 0"], ["d", "m218.792969 16.117188c2.992187-2.5625 7.40625-2.5625 10.398437 0l105.160156 90.117187 6.953126-10.398437-117.304688-95.335938-117.304688 95.289062 6.953126 10.398438zm0 0"], ["d", "m368 361.5v84.6875h16v-84.6875l-8-8zm0 0"], ["d", "m400 361.5v84.6875h16v-84.6875l-8-8zm0 0"], ["d", "m152 302.1875h16v32h-16zm0 0"], ["d", "m280 206.1875h16v32h-16zm0 0"], ["d", "m184 350.1875h16v32h-16zm0 0"], ["d", "m248 302.1875h16v32h-16zm0 0"], ["d", "m248 158.1875h16v32h-16zm0 0"], ["d", "m120 121.867188v292.320312h208v-292.320312l-104-89.144532zm96 268.320312c0 4.417969-3.582031 8-8 8h-64c-4.417969 0-8-3.582031-8-8v-96c0-4.417969 3.582031-8 8-8h64c4.417969 0 8 3.582031 8 8zm0-144c0 4.417969-3.582031 8-8 8h-64c-4.417969 0-8-3.582031-8-8v-96c0-4.417969 3.582031-8 8-8h64c4.417969 0 8 3.582031 8 8zm16-96c0-4.417969 3.582031-8 8-8h64c4.417969 0 8 3.582031 8 8v96c0 4.417969-3.582031 8-8 8h-64c-4.417969 0-8-3.582031-8-8zm0 144c0-4.417969 3.582031-8 8-8h64c4.417969 0 8 3.582031 8 8v96c0 4.417969-3.582031 8-8 8h-64c-4.417969 0-8-3.582031-8-8zm0 0"], ["d", "m248 350.1875h16v32h-16zm0 0"], ["d", "m0 361.5v84.6875h16v-84.6875l-8-8zm0 0"], ["d", "m440 353.5-8 8v84.6875h16v-84.6875zm0 0"], ["d", "m64 361.5v84.6875h16v-84.6875l-8-8zm0 0"], ["d", "m32 361.5v84.6875h16v-84.6875l-8-8zm0 0"], ["d", "m96 430.1875h256v16h-256zm0 0"], ["d", "m280 302.1875h16v32h-16zm0 0"], ["d", "m248 206.1875h16v32h-16zm0 0"], ["d", "m280 350.1875h16v32h-16zm0 0"], [1, "row", "block"], ["href", "https://github.com/vamsithatikonda"], ["version", "1.1", "id", "Capa_1", "xmlns", "http://www.w3.org/2000/svg", 0, "xmlns", "xlink", "http://www.w3.org/1999/xlink", "x", "0px", "y", "0px", "width", "50px", "height", "50px", "viewBox", "0 0 438.549 438.549", 0, "xml", "space", "preserve", 2, "enable-background", "new 0 0 438.549 438.549"], ["d", "M409.132,114.573c-19.608-33.596-46.205-60.194-79.798-79.8C295.736,15.166,259.057,5.365,219.271,5.365\n       c-39.781,0-76.472,9.804-110.063,29.408c-33.596,19.605-60.192,46.204-79.8,79.8C9.803,148.168,0,184.854,0,224.63\n       c0,47.78,13.94,90.745,41.827,128.906c27.884,38.164,63.906,64.572,108.063,79.227c5.14,0.954,8.945,0.283,11.419-1.996\n       c2.475-2.282,3.711-5.14,3.711-8.562c0-0.571-0.049-5.708-0.144-15.417c-0.098-9.709-0.144-18.179-0.144-25.406l-6.567,1.136\n       c-4.187,0.767-9.469,1.092-15.846,1c-6.374-0.089-12.991-0.757-19.842-1.999c-6.854-1.231-13.229-4.086-19.13-8.559\n       c-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903-4.374-4.899-9.233-8.992-14.559\n       c-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332-0.951-2.568-2.098-3.711-3.429c-1.142-1.331-1.997-2.663-2.568-3.997\n       c-0.572-1.335-0.098-2.43,1.427-3.289c1.525-0.859,4.281-1.276,8.28-1.276l5.708,0.853c3.807,0.763,8.516,3.042,14.133,6.851\n       c5.614,3.806,10.229,8.754,13.846,14.842c4.38,7.806,9.657,13.754,15.846,17.847c6.184,4.093,12.419,6.136,18.699,6.136\n       c6.28,0,11.704-0.476,16.274-1.423c4.565-0.952,8.848-2.383,12.847-4.285c1.713-12.758,6.377-22.559,13.988-29.41\n       c-10.848-1.14-20.601-2.857-29.264-5.14c-8.658-2.286-17.605-5.996-26.835-11.14c-9.235-5.137-16.896-11.516-22.985-19.126\n       c-6.09-7.614-11.088-17.61-14.987-29.979c-3.901-12.374-5.852-26.648-5.852-42.826c0-23.035,7.52-42.637,22.557-58.817\n       c-7.044-17.318-6.379-36.732,1.997-58.24c5.52-1.715,13.706-0.428,24.554,3.853c10.85,4.283,18.794,7.952,23.84,10.994\n       c5.046,3.041,9.089,5.618,12.135,7.708c17.705-4.947,35.976-7.421,54.818-7.421s37.117,2.474,54.823,7.421l10.849-6.849\n       c7.419-4.57,16.18-8.758,26.262-12.565c10.088-3.805,17.802-4.853,23.134-3.138c8.562,21.509,9.325,40.922,2.279,58.24\n       c15.036,16.18,22.559,35.787,22.559,58.817c0,16.178-1.958,30.497-5.853,42.966c-3.9,12.471-8.941,22.457-15.125,29.979\n       c-6.191,7.521-13.901,13.85-23.131,18.986c-9.232,5.14-18.182,8.85-26.84,11.136c-8.662,2.286-18.415,4.004-29.263,5.146\n       c9.894,8.562,14.842,22.077,14.842,40.539v60.237c0,3.422,1.19,6.279,3.572,8.562c2.379,2.279,6.136,2.95,11.276,1.995\n       c44.163-14.653,80.185-41.062,108.068-79.226c27.88-38.161,41.825-81.126,41.825-128.906\n       C438.536,184.851,428.728,148.168,409.132,114.573z"], ["href", "https://www.linkedin.com/in/vamsithatikonda/"], ["fill", "#000000", "xmlns", "http://www.w3.org/2000/svg", "viewBox", "0 0 24 24", "width", "50px", "height", "50px"], ["d", "M 21.800781 0 L 2.199219 0 C 1 0 0 1 0 2.199219 L 0 21.800781 C 0 23 1 24 2.199219 24 L 21.800781 24 C 23 24 24 23 24 21.800781 L 24 2.199219 C 24 1 23 0 21.800781 0 Z M 7 20 L 3 20 L 3 9 L 7 9 Z M 5 7.699219 C 3.800781 7.699219 3 6.898438 3 5.898438 C 3 4.800781 3.800781 4 5 4 C 6.199219 4 7 4.800781 7 5.800781 C 7 6.898438 6.199219 7.699219 5 7.699219 Z M 21 20 L 17 20 L 17 14 C 17 12.398438 15.898438 12 15.601563 12 C 15.300781 12 14 12.199219 14 14 C 14 14.199219 14 20 14 20 L 10 20 L 10 9 L 14 9 L 14 10.601563 C 14.601563 9.699219 15.601563 9 17.5 9 C 19.398438 9 21 10.5 21 14 Z"], [1, "callOuts", "d-flex", "flex-column", "w-80", "p-1"], ["mat-tab-nav-bar", ""], ["mat-tab-link", "", "routerLink", "/experience", "routerLinkActive", "", 2, "width", "40%", 3, "active"], ["homeTab", "routerLinkActive"], ["mat-tab-link", "", "routerLink", "/skills", "routerLinkActive", "", 2, "width", "40%", 3, "active"], ["skillsTab", "routerLinkActive"], ["mat-tab-link", "", "routerLink", "/portfolio", "routerLinkActive", "", 2, "width", "40%", 3, "active"], ["portTab", "routerLinkActive"], ["mat-tab-link", "", "routerLink", "/education", "routerLinkActive", "", 2, "width", "40%", 3, "active"], ["eduTab", "routerLinkActive"], [1, "callOuts", "d-flex", "bottomArea", "p-3"], [1, "w-30"], [1, "d-flex", "flex-column"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "h2", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "Vamsi Thatikonda");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "h3", 6);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "Software Engineer/UI Developer");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "i");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](7, "Senior Software Developer");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "h4");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "I am a Full Stack Developer, Node Js developer and Front End Developer creating awesome and effective Web pages for companies of all sizes around the globe. My recent interests are Angular and React and designing Hybrid and progressive web apps with MEAN Stack and Spring Boot. For my recent projects please check out my git Hub. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](11, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "div", 7);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "a", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "h4", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, "I am a Full Stack Developer and Front End Developer creating awesome and effective Web pages for companies of all sizes around the globe. My recent interests are in AWS, Server side, back end, Angular and developing Hybrid and progressive web apps with latest Stack and Spring Boot. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "For my recent projects, please check out my git Hub. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "a", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnamespaceSVG"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "svg", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](15, "path", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "path", 11);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "path", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "svg", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](15, "path", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "path", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "path", 9);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](18, " Click to download Resume");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnamespaceHTML"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](19, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](20, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "div", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "div", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnamespaceSVG"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "svg", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](23, "path", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](24, "path", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "svg", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](21, "path", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](22, "path", 13);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, " Wright State Univeristy ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](23, " Wright State Univeristy ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnamespaceHTML"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](26, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "div", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](24, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "div", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnamespaceSVG"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "svg", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](30, "path", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](31, "path", 18);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "svg", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "path", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](28, "path", 16);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, " vamsi.thatikonda@gmail.com ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, " vamsi.thatikonda@gmail.com ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnamespaceHTML"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](33, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](34, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "div", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](30, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "div", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnamespaceSVG"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "svg", 19);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](37, "path", 20);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](38, "path", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](39, "path", 22);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](40, "path", 23);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](41, "path", 24);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](42, "path", 25);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](43, "path", 26);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](44, "path", 27);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](45, "path", 28);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](46, "path", 29);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](47, "path", 30);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](48, "path", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](49, "path", 32);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](50, "path", 33);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](51, "path", 34);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](52, "path", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](53, "path", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](54, "path", 37);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](55, "path", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](56, "path", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](57, "path", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](58, "path", 41);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](59, "path", 42);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](60, "path", 43);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](61, "path", 44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "svg", 17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](33, "path", 18);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](34, "path", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](35, "path", 20);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](36, "path", 21);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](37, "path", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](38, "path", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](39, "path", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](40, "path", 25);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](41, "path", 26);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](42, "path", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](43, "path", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](44, "path", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](45, "path", 30);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](46, "path", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](47, "path", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](48, "path", 33);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](49, "path", 34);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](50, "path", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](51, "path", 36);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](52, "path", 37);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](53, "path", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](54, "path", 39);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](55, "path", 40);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](56, "path", 41);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](57, "path", 42);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](62, " Herndon, VA ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](58, " Herndon, VA ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnamespaceHTML"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "div", 7);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](64, "hr", 45);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](65, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](66, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "a", 46);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](59, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](60, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](61, "div", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "a", 44);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnamespaceSVG"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "svg", 47);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "g");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](71, "path", 48);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "svg", 45);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "g");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](65, "path", 46);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](66, "g");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](67, "g");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](68, "g");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](69, "g");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](70, "g");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](71, "g");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](72, "g");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](73, "g");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](74, "g");
@@ -155,41 +152,66 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](78, "g");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](79, "g");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](80, "g");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](81, "g");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](82, "g");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](83, "g");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](84, "g");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](85, "g");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](86, "g");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnamespaceHTML"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](81, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](82, "\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](83, "a", 47);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnamespaceSVG"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](84, "svg", 48);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](85, "path", 49);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnamespaceHTML"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](87, "mat-sidenav-content");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](88, "nav", 49);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](89, "a", 50, 51);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](91, " My Experience ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](86, "div", 50);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](87, "nav", 51);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](88, "a", 52, 53);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](90, " My Experience ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](92, "a", 52, 53);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](94, " My Skills ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](91, "a", 54, 55);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](93, " My Skills ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](95, "a", 54, 55);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](97, " My Portfolio & Projects ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](94, "a", 56, 57);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](96, " My Portfolio & Projects ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](98, "a", 56, 57);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](100, " My Education ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](97, "a", 58, 59);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](99, " My Education ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](101, "router-outlet");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](100, "router-outlet");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](101, "div", 60);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](102, "div", 61);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](103, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](104, "About me");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](105, "div", 62);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](106, "h5");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](107, "Contact me: ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](108, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](109, "info@vamsithatikonda.com");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](110, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](111, "Herndon, VA");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](112, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](113, "(802)324-6690");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     } if (rf & 2) {
-        const _r0 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵreference"](90);
-        const _r1 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵreference"](93);
-        const _r2 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵreference"](96);
-        const _r3 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵreference"](99);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](89);
+        const _r0 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵreference"](89);
+        const _r1 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵreference"](92);
+        const _r2 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵreference"](95);
+        const _r3 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵreference"](98);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](88);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("active", _r0.isActive);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("active", _r1.isActive);
@@ -197,7 +219,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("active", _r2.isActive);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("active", _r3.isActive);
-    } }, directives: [_angular_material_sidenav__WEBPACK_IMPORTED_MODULE_1__["MatSidenavContainer"], _angular_material_sidenav__WEBPACK_IMPORTED_MODULE_1__["MatSidenav"], _angular_material_sidenav__WEBPACK_IMPORTED_MODULE_1__["MatSidenavContent"], _angular_material_tabs__WEBPACK_IMPORTED_MODULE_2__["MatTabNav"], _angular_router__WEBPACK_IMPORTED_MODULE_3__["RouterLinkWithHref"], _angular_material_tabs__WEBPACK_IMPORTED_MODULE_2__["MatTabLink"], _angular_router__WEBPACK_IMPORTED_MODULE_3__["RouterLinkActive"], _angular_router__WEBPACK_IMPORTED_MODULE_3__["RouterOutlet"]], styles: ["img[_ngcontent-%COMP%] {\n  border-radius: 50%;\n}\n.example-container-left[_ngcontent-%COMP%]{\n  width: 30%;\n}\n.block[_ngcontent-%COMP%] {\n  padding-top: 40px;\npadding-right: 50px;\npadding-bottom: 5px;\npadding-left: 50px;\n}\n.example-container[_ngcontent-%COMP%] {\n  background: #eee;\n}\n.titleCss[_ngcontent-%COMP%]{\n  padding-top: 4px;\npadding-right: 5px;\npadding-bottom: 5px;\npadding-left: 5px;\n}\n.titleCssName[_ngcontent-%COMP%]{\n  padding-top: 20px;\npadding-right: 5px;\npadding-bottom: 5px;\npadding-left: 5px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxrQkFBa0I7QUFDcEI7QUFDQTtFQUNFLFVBQVU7QUFDWjtBQUNBO0VBQ0UsaUJBQWlCO0FBQ25CLG1CQUFtQjtBQUNuQixtQkFBbUI7QUFDbkIsa0JBQWtCO0FBQ2xCO0FBQ0E7RUFDRSxnQkFBZ0I7QUFDbEI7QUFDQTtFQUNFLGdCQUFnQjtBQUNsQixrQkFBa0I7QUFDbEIsbUJBQW1CO0FBQ25CLGlCQUFpQjtBQUNqQjtBQUVBO0VBQ0UsaUJBQWlCO0FBQ25CLGtCQUFrQjtBQUNsQixtQkFBbUI7QUFDbkIsaUJBQWlCO0FBQ2pCIiwiZmlsZSI6InNyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJpbWcge1xuICBib3JkZXItcmFkaXVzOiA1MCU7XG59XG4uZXhhbXBsZS1jb250YWluZXItbGVmdHtcbiAgd2lkdGg6IDMwJTtcbn1cbi5ibG9jayB7XG4gIHBhZGRpbmctdG9wOiA0MHB4O1xucGFkZGluZy1yaWdodDogNTBweDtcbnBhZGRpbmctYm90dG9tOiA1cHg7XG5wYWRkaW5nLWxlZnQ6IDUwcHg7XG59XG4uZXhhbXBsZS1jb250YWluZXIge1xuICBiYWNrZ3JvdW5kOiAjZWVlO1xufVxuLnRpdGxlQ3Nze1xuICBwYWRkaW5nLXRvcDogNHB4O1xucGFkZGluZy1yaWdodDogNXB4O1xucGFkZGluZy1ib3R0b206IDVweDtcbnBhZGRpbmctbGVmdDogNXB4O1xufVxuXG4udGl0bGVDc3NOYW1le1xuICBwYWRkaW5nLXRvcDogMjBweDtcbnBhZGRpbmctcmlnaHQ6IDVweDtcbnBhZGRpbmctYm90dG9tOiA1cHg7XG5wYWRkaW5nLWxlZnQ6IDVweDtcbn1cblxuIFxuICBcbiJdfQ== */"] });
+    } }, directives: [_angular_material_tabs__WEBPACK_IMPORTED_MODULE_1__["MatTabNav"], _angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterLinkWithHref"], _angular_material_tabs__WEBPACK_IMPORTED_MODULE_1__["MatTabLink"], _angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterLinkActive"], _angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterOutlet"]], styles: [".testBox[_ngcontent-%COMP%]{\n  background-color: cadetblue;\n}\n.callOuts[_ngcontent-%COMP%]{\n    border: 3px solid gainsboro;\n}\n.boxColor[_ngcontent-%COMP%]{\n  background-color:rgb(84, 166, 233);\n}\n.bottomArea[_ngcontent-%COMP%]{\n  background-color: dimgrey;\n  height: 150px;\n  color: #fff;\n  font-size: .8rem;\n}\n.w-60[_ngcontent-%COMP%]{\n  width: 60%!important;\n}\n.w-20[_ngcontent-%COMP%]{\n  width: 20%!important;\n}\n.w-30[_ngcontent-%COMP%]{\n  width: 30%!important;\n}\n.w-80[_ngcontent-%COMP%]{\n  width: 80%!important;\n}\n.bodyHeight[_ngcontent-%COMP%]{\n  min-height: 548px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSwyQkFBMkI7QUFDN0I7QUFDQTtJQUNJLDJCQUEyQjtBQUMvQjtBQUNBO0VBQ0Usa0NBQWtDO0FBQ3BDO0FBQ0E7RUFDRSx5QkFBeUI7RUFDekIsYUFBYTtFQUNiLFdBQVc7RUFDWCxnQkFBZ0I7QUFDbEI7QUFDQTtFQUNFLG9CQUFvQjtBQUN0QjtBQUNBO0VBQ0Usb0JBQW9CO0FBQ3RCO0FBQ0E7RUFDRSxvQkFBb0I7QUFDdEI7QUFDQTtFQUNFLG9CQUFvQjtBQUN0QjtBQUVBO0VBQ0UsaUJBQWlCO0FBQ25CIiwiZmlsZSI6InNyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIudGVzdEJveHtcbiAgYmFja2dyb3VuZC1jb2xvcjogY2FkZXRibHVlO1xufVxuLmNhbGxPdXRze1xuICAgIGJvcmRlcjogM3B4IHNvbGlkIGdhaW5zYm9ybztcbn1cbi5ib3hDb2xvcntcbiAgYmFja2dyb3VuZC1jb2xvcjpyZ2IoODQsIDE2NiwgMjMzKTtcbn1cbi5ib3R0b21BcmVhe1xuICBiYWNrZ3JvdW5kLWNvbG9yOiBkaW1ncmV5O1xuICBoZWlnaHQ6IDE1MHB4O1xuICBjb2xvcjogI2ZmZjtcbiAgZm9udC1zaXplOiAuOHJlbTtcbn1cbi53LTYwe1xuICB3aWR0aDogNjAlIWltcG9ydGFudDtcbn1cbi53LTIwe1xuICB3aWR0aDogMjAlIWltcG9ydGFudDtcbn1cbi53LTMwe1xuICB3aWR0aDogMzAlIWltcG9ydGFudDtcbn1cbi53LTgwe1xuICB3aWR0aDogODAlIWltcG9ydGFudDtcbn1cblxuLmJvZHlIZWlnaHR7XG4gIG1pbi1oZWlnaHQ6IDU0OHB4O1xufVxuIl19 */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](AppComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -233,6 +255,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_material_sidenav__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! @angular/material/sidenav */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/sidenav.js");
 /* harmony import */ var _angular_material_grid_list__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @angular/material/grid-list */ "./node_modules/@angular/material/__ivy_ngcc__/fesm2015/grid-list.js");
 /* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
+/* harmony import */ var _angular_flex_layout__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! @angular/flex-layout */ "./node_modules/@angular/flex-layout/__ivy_ngcc__/esm2015/flex-layout.js");
+
 
 
 
@@ -272,6 +296,7 @@ AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineInjector
             _angular_material_sidenav__WEBPACK_IMPORTED_MODULE_10__["MatSidenavModule"],
             _angular_material_grid_list__WEBPACK_IMPORTED_MODULE_11__["MatGridListModule"],
             _angular_common_http__WEBPACK_IMPORTED_MODULE_12__["HttpClientModule"],
+            _angular_flex_layout__WEBPACK_IMPORTED_MODULE_13__["FlexLayoutModule"],
         ]] });
 (function () { (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsetNgModuleScope"](AppModule, { declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"],
         _experience_experience_component__WEBPACK_IMPORTED_MODULE_3__["ExperienceComponent"],
@@ -281,7 +306,8 @@ AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineInjector
         _angular_material_tabs__WEBPACK_IMPORTED_MODULE_5__["MatTabsModule"],
         _angular_material_sidenav__WEBPACK_IMPORTED_MODULE_10__["MatSidenavModule"],
         _angular_material_grid_list__WEBPACK_IMPORTED_MODULE_11__["MatGridListModule"],
-        _angular_common_http__WEBPACK_IMPORTED_MODULE_12__["HttpClientModule"]] }); })();
+        _angular_common_http__WEBPACK_IMPORTED_MODULE_12__["HttpClientModule"],
+        _angular_flex_layout__WEBPACK_IMPORTED_MODULE_13__["FlexLayoutModule"]] }); })();
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵsetClassMetadata"](AppModule, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_1__["NgModule"],
         args: [{
@@ -300,6 +326,7 @@ AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineInjector
                     _angular_material_sidenav__WEBPACK_IMPORTED_MODULE_10__["MatSidenavModule"],
                     _angular_material_grid_list__WEBPACK_IMPORTED_MODULE_11__["MatGridListModule"],
                     _angular_common_http__WEBPACK_IMPORTED_MODULE_12__["HttpClientModule"],
+                    _angular_flex_layout__WEBPACK_IMPORTED_MODULE_13__["FlexLayoutModule"],
                 ],
                 providers: [],
                 bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"]]
